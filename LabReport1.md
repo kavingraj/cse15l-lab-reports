@@ -2,7 +2,7 @@
 
 ## Kavin Raj CSE15L
 
-Today we will be going through how to set up the enviorment we will be using for CSE15L!
+Today we will be going through how to set up the enviornment we will be using for CSE15L!
 
 Learning objectives:
 
@@ -12,7 +12,7 @@ Learning objectives:
 
 - **We will first start by installing VScode**
 
-We will wanna install VScode using this [link.](https://code.visualstudio.com/download)
+We will want to install VScode using this [link.](https://code.visualstudio.com/download)
 ![image](Screenshot_20230116_054304.png)
 Choose the download that works for the device you are using and wait for it to download. 
 
@@ -52,4 +52,4 @@ Here are some commands we could try: `cd`, `ls`, `pwd`, `mkdir`, and `cp`
 
 ![image](Screenshot_20230116_064926.png)
 
-Play around and get confortable with the terminal and the enviorment we will be using for this class.
+Play around and get comfortable with the terminal and the enviornment we will be using for this class.
